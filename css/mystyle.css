@@ -1,0 +1,109 @@
+*{
+    box-sizing: border-box;
+}
+.h2,.h3,.h4,.h5,.h6{
+	margin-bottom:0%;
+	text-align:0;
+	color: green;
+	background-color:#D8D8D8 ;
+}
+#header {
+    background: black;
+    position: fixed;
+    width: 100%;
+	margin: 0 auto;
+	top: 0;
+	border: 3px solid ;
+	z-index: 1;
+}
+#footerlast {
+    width: 100%;
+    background: black;
+	text-indent: 10px;
+	margin: 100px;
+	padding: 0px auto;
+	bottom: 0;
+}
+
+.nav navbar-nav{
+	height:100%;
+	background-color:#D8D8D8 ;
+}
+.sections{
+	background-image: url("../image/bbb.jpg");
+}
+.div {
+	width: 300px;
+	padding: 25px;
+	border: 25px solid navy;
+	margin: 25px;
+}
+.bee{
+	background-color:#F0F0F0;
+	text-align: left;
+	
+}
+.read{
+	background-image: url("../image/f.jpg");
+}
+.update{
+	background-image: url("../image/6.jpg");
+}
+.search{
+	background-image: url("../image/b.jpg");
+}
+.navbar{
+	background-color:#D8D8D8 ;
+
+}
+.nav{
+	text-align: left;
+	
+}
+.ben{
+	background-image: url("../image/6.jpg");
+	display:inline-block;
+	padding: 25px;
+	margin: 25px;
+}
+.input-group{
+	padding: 10px;
+	margin: 10px;
+}
+
+.doing{
+	background-color:#D8D8D8 ;
+}
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+	width: 70%;
+	margin: auto;
+}
+.gallery> .row>img{
+	padding: 10px;
+	margin: 10px;
+	width: 200px;
+	
+}
+.row{
+	margin-top:10px;
+	position: relative;
+	top: 70px;
+}
+#author {
+
+	background-color:#99CCFF;
+	margin:0 auto;
+	position: relative;
+	top: 50px;
+}
+#moveing {
+	position: relative;
+	top: 80px;
+	margin: 0 auto;
+	padding: 20px;
+}
+#myNavbar{
+	border-radius: 4px;
+	
+}
