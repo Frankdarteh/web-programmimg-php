@@ -34,4 +34,4 @@
     </blockquote>
     <h3>If you have time, you should read more about this incredible human being on his <a id="tribute-link" href="https://en.wikipedia.org/wiki/Norman_Borlaug" target="_blank">Wikipedia entry</a>.</h3>
   </div>
-</div>
+
