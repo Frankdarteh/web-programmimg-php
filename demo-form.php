@@ -7,7 +7,7 @@
 <body>
 
 <div class="navbar">
-            <ul class="nav"><h1>
+            <ul class="nav">
                 <li class="active">
                     <a href="update.php">Update Book</a>
                 </li>
@@ -15,7 +15,7 @@
                     <a href="reader.php">Reader </a>
                 </li>
                 <li>
-                    <a href="order.php">Order Of Book </a></h1>
+                   <a href="order.php">Order Of Book </a>
                 </li>
             </ul>
     </div>
