@@ -18,7 +18,6 @@
            </li>
         </ul>
    </div>
-  </div>
 </nav>
 <div class="container">
   <h3>Fixt Boy</h3>
