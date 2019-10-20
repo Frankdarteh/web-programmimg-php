@@ -6,7 +6,6 @@
     <div id="img-caption">
       Dr. Norman Borlaug, second from left, trains biologists in Mexico on how to increase wheat yields - part of his life-long war on hunger.
     </div>
-  </div>
   <div id="tribute-info">
     <ul>
       <h3 id="headline">Here's a time line of Dr. Borlaug's life:</h3>
