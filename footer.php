@@ -14,11 +14,9 @@
                 <form class="form-inline">
                   <input type="email" class="form-control" size="50" placeholder="Email Address">
                   <button type="button" class="btn btn-danger">Sign Up</button>
-                 </form>
-                </li>
-              </ul>
+                 
     <div class="container">
       <h3>Fixt Boy</h3>
       <p><h2>I An inverting you to IT word.</h2></p>
     </div>
-    </html>
+  
